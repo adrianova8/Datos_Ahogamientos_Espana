@@ -1,0 +1,2 @@
+# Aquí puedo especificar las carpetas que quiero que se ignoren a la hora de comitear archivos/carpetas
+.env
