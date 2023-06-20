@@ -1,0 +1,16 @@
+\documentclass[../main.tex]{subfiles}
+
+\begin{document}
+\thispagestyle{empty}
+
+Quiero expresar mi más sincero agradecimiento por la oportunidad de estudiar este máster. Cuando tomé la decisión de aplicar, no estaba pasando por mi mejor momento personal. Sin embargo, hoy puedo afirmar con total seguridad que ha sido una de las mejores decisiones que he tomado.
+
+Este máster me ha brindado la oportunidad de aprender de profesionales en el campo de la ciencia de datos. Desde el primer día, he sentido el apoyo y el compromiso de todo el equipo docente para ayudarnos a alcanzar nuestros objetivos académicos y profesionales.
+
+También quiero expresar mi más profundo agradecimiento a mis padres. Su apoyo incondicional ha sido fundamental en mi decisión de venir a estudiar aquí en Santander. A pesar de los obstáculos y las dudas que surgieron en el camino, ellos siempre estuvieron allí para recordarme mi pasión y animarme a seguir adelante. Sin ellos, no habría sido posible lograrlo.
+
+Por último, quiero agradecer a mis compañeros de clase. Ha sido un placer estudiar y trabajar con ellos en proyectos y tareas. Hemos compartido momentos de risas y conocimientos. Espero seguir manteniendo el contacto en el futuro.
+
+Gracias de nuevo por esta experiencia única e inolvidable. Estoy seguro de que los conocimientos y habilidades adquiridos en este máster me acompañarán en mi carrera como científico de datos.
+
+\end{document}
